@@ -1,0 +1,67 @@
+.dev-card-body{
+    height: 600px;
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  .dev-info{
+    margin-top: -38px;
+    height: 500px;
+    width: 500px;
+    background: rgb(233, 169, 169);
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px 10px #6a5959;
+  }
+  
+  .dev-img{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+  }
+  
+    font-size: 200px;
+    color: rgb(170, 25, 25)(161, 101, 101);
+    font-weight: 900;
+    text-align: center;
+    line-height: 200px;
+  }
+  
+  .job{
+    margin-top: -80px;
+    margin-bottom: 80px;
+    font-size: 30px;
+    color: rgb(197, 43, 189);
+    font-weight: 900;
+    text-align: center;
+    line-height: 80px;
+  }
+  
+  .social{
+    font-size: 20px;
+    color: rgb(19, 19, 20);
+    font-weight: 900;
+    text-align: center;
+    line-height: 50px;
+  }
+  .left-text{
+    display: inline-block;
+  }
+  .right-text{
+    display: inline-block;
+  }
+  .text{
+    font-size: 0;
+  }
+  .left-text{
+    width: -50%;
+    display:  inline-block;
+    background: #f77;
+    font-size: 40px;
+  }
+  .right-text{
+    width: -50%;
+    display: inline-block;
+    background: #ff7;
+    font-size: 40px;
+    text-align: left;
+  } 
